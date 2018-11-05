@@ -14,4 +14,4 @@ describe('Todo', () => {
     expect(todo.title).toEqual('hello');
     expect(todo.complete).toEqual(true);
   });
-})
+});
